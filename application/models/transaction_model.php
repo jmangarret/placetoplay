@@ -85,7 +85,7 @@ class Transaction_model extends CI_Model {
 		    'tipAmount'     => $tipAmount,
 		    'payer'         => $payerPerson,    
 		    'buyer'         => $payerPerson,
-		    'returnURL'     => 'http://localhost/CodeIgniterPlacetoPlay/index.php/transaction/view',
+		    'returnURL'     => 'http://localhost/placetopay/index.php/transaction/view',
 		    'ipAddress'     => '127.0.0.1',
 		    'userAgent'     => isset($_SERVER['HTTP_USER_AGENT']) ? $_SERVER['HTTP_USER_AGENT'] : 'CLIENT_USER_AGENT'
 		];

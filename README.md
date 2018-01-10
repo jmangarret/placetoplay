@@ -7,8 +7,8 @@ Fecha: 09/enero/2018
 XAMPP para Windows 3.2.2
 Activar librerias SOAP en el php.ini
 Variables y credenciales de conexion en application/config/constants.php
-Copiar proyecto (carpeta CodeIgniterPlacetoPlay) en c:/xampp/htdocs/
-Ejecutar URL http://localhost/CodeIgniterPlacetoPlay/index.php
+Copiar proyecto (carpeta placetopay) en c:/xampp/htdocs/
+Ejecutar URL http://localhost/placetopay/index.php
 
 # CodeIgniter 2
 Open Source PHP Framework (originally from EllisLab)
