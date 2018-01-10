@@ -1,4 +1,4 @@
-# Prueba con WebServices de PSE Place To Play con framework CodeIgniter 2
+# Prueba con WebServices de PSE Place To Pay con framework CodeIgniter 2
 Autor: Jonathan Mangarret
 E-Mail: jmangarret@gmail.com
 Fecha: 09/enero/2018
